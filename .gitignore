@@ -1,0 +1,10 @@
+node_modules/
+.vscode/
+tests/screenshots
+tests/videos
+server/smtp.js
+storage/files/*
+temp/*
+.DS_Store
+**/.DS_Store
+temp
